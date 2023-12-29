@@ -1,0 +1,7 @@
+{
+	"package": "net.bytzo.mc_249136.mixins",
+	"mixins": [
+		"ServerLevelMixin",
+		"StructureCheckMixin"
+	]
+}
