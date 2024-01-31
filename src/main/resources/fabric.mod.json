@@ -8,7 +8,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.15.0",
-		"minecraft": ">=1.19-alpha.22.11.a"
+		"minecraft": ">=1.19-alpha.22.11.a <1.20.5-alpha.24.4.a"
 	},
 	"license": "MIT"
 }
